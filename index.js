@@ -2,7 +2,7 @@ const suma = (a, b) => {
  return a + b;
 }
 
-const resta = () => {
+const resta  {
  return a - b;
 }
 
